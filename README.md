@@ -26,7 +26,7 @@ As per my knowledge there are two option available to anonymizie the data.
 I have used faker library to encyrpt or say to fake the data.
 
 
-# Word with word document
+# Work with word document
 
 There are also two option by which we can word on word document.
 
